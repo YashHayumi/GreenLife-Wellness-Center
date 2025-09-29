@@ -1,0 +1,78 @@
+/* --- Login Container --- */
+.login-container {
+  background-color: #dcffde;
+  width: 420px;
+  padding: 40px 35px 50px 35px;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: 60px auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-container h2 {
+  margin-bottom: 30px;
+  color: #1b8127;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+/* --- Input Groups with Icons --- */
+.input-group {
+  position: relative;
+  margin-bottom: 25px;
+  text-align: left;
+}
+
+.input-group i {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #167022;
+  font-size: 1.2rem;
+  pointer-events: none;
+}
+
+.input-group input {
+  width: 85%;
+  padding: 12px 12px 12px 40px; /* padding left for icon */
+  border: 1.8px solid #cfd8dc;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: border-color 0.25s ease;
+  font-weight: 500;
+  color: #374151;
+}
+
+.input-group input:focus {
+  border-color: #6bf286;
+  outline: none;
+  box-shadow: 0 0 6px rgba(42, 129, 41, 0.3);
+}
+
+/* --- Button --- */
+.login-container button {
+  width: 100%;
+  padding: 13px;
+  background-color: #2ca43c;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.login-container button:hover {
+  background-color: #054107;
+}
+
+/* --- Error message --- */
+.error {
+  color: #d32f2f;
+  margin-top: 15px;
+  font-weight: 600;
+  font-size: 0.9rem;
+}

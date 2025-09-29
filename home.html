@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenLife Wellness Center</title>
+    <link rel="stylesheet" href="home.css" />
+</head>
+<body>
+
+        <ul type="none">
+        <img src="1.png"> <!--image--><br><br>
+
+        <li><a class="active" href="home.html">Home</a></li><br>
+        <li><a href="#services">Services</a></li><br>
+        <li><a href="#therapists">Therapists</a></li><br>
+        <li><a href="appoinment.html">Book Appointment</a></li><br>
+        <li><a href="#cdashboard">Client Dashboard</a></li><br>
+        <li><a href="#tdashboard">Therapist Dashboard</a></li><br>
+        <li><a href="#adashboard">Admin Dashboard</a></li><br>
+        <li><a href="#about">About</a></li><br>
+        <li><a href="#contact">Contact Us</a></li><br>
+        <li><a href="index.html">Register/Login</a></li><br>
+    </ul>
+<script>
+/* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
+var dropdown = document.getElementsByClassName("dropdown-btn");
+var i;
+
+for (i = 0; i < dropdown.length; i++) {
+  dropdown[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var dropdownContent = this.nextElementSibling;
+    if (dropdownContent.style.display === "block") {
+      dropdownContent.style.display = "none";
+    } else {
+      dropdownContent.style.display = "block";
+    }
+  });
+}
+</script>
+
+ <div style="margin-left:20%;padding:1px 16px;height:1000px;">
+    
+ </div>
+
+</body>
+</html>
