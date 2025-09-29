@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Avast/126.0.0.0" version="28.2.0">
+  <diagram name="Page-1" id="MJIfw9Xfixav2o8gxMMa">
+    <mxGraphModel dx="1506" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7YQjvosz25pRn5sGRjC9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="1040" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#D5FFB7);" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="200" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="50" y="80" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-4" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;fillColor=default;strokeColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="50" y="80" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-5" value="Logo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="105" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7YQjvosz25pRn5sGRjC9-27" target="7YQjvosz25pRn5sGRjC9-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-7" value="&lt;b&gt;Home&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="51" y="209.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-8" value="&lt;b&gt;Service&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="54" y="274" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-9" value="&lt;b&gt;Therapists&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="51" y="367" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-10" value="&lt;b&gt;Ayurvedic Therapy&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="71" y="304" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-11" value="&lt;b&gt;Yoga &amp;amp; Meditation&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="71" y="334" width="159" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-12" value="&lt;b&gt;Contact Us&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="51" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7YQjvosz25pRn5sGRjC9-7" target="7YQjvosz25pRn5sGRjC9-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="91" y="240" as="sourcePoint" />
+            <mxPoint x="111" y="334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-27" value="&lt;b&gt;About&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="51" y="244" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-28" value="&lt;b&gt;Register / Login&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="51" y="478.5" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-29" value="&lt;b&gt;Knowledge Center&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="52" y="403.5" width="178" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-32" value="&lt;b&gt;Client Dashboard&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="51" y="516.5" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-33" value="&lt;b&gt;Therapist Dashboard&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="51" y="557.5" width="199" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YQjvosz25pRn5sGRjC9-34" value="&lt;b&gt;Admin Dashboard&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="51.5" y="598.5" width="176" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c9pFDxgWKYqPfjZnPTOq-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9pFDxgWKYqPfjZnPTOq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="340" y="100" width="166.15" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="c9pFDxgWKYqPfjZnPTOq-3" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;fillColor=default;strokeColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="340" y="100" width="166.15" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="c9pFDxgWKYqPfjZnPTOq-4" value="Therapist Name" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontStyle=1;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="340" y="317" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c9pFDxgWKYqPfjZnPTOq-5" value="Profession:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="340" y="372.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c9pFDxgWKYqPfjZnPTOq-6" value="Specialties:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="340" y="493" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c9pFDxgWKYqPfjZnPTOq-7" value="Location:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="340" y="532.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezkjjZ4eAbXDMJmgoiN_-1" value="Rating:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezkjjZ4eAbXDMJmgoiN_-2" value="Experience:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="452" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezkjjZ4eAbXDMJmgoiN_-3" value="Bio:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="575.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezkjjZ4eAbXDMJmgoiN_-4" value="&lt;u style=&quot;&quot;&gt;Send Message&lt;/u&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;u&gt;Back to List&lt;/u&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640" width="370" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
